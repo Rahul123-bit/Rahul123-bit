@@ -45,16 +45,10 @@
 
 ## 🔭 Projects
 
-- E-commerce Store Sales Analysis  ➡ [Click here](https://e-commerci.netlify.app/)
 - Opportunity Analysis ➡ [Click here](link_to_personal_portfolio)
-- Adidas Sales Analysis ➡ [Click here](link_to_personal_portfolio)
-- Cocid - 19 Pandemic Analysis ➡ [Click here](link_to_personal_portfolio)
-- Social Buzz Analysis ➡ [Click here](link_to_personal_portfolio)
-- Online Store data Analysis ➡ [Click here](link_to_personal_portfolio)
+  
 
 ## 🔭 SQL Projects
--  Adidas Sales Analysis ➡ [Click here](https://raw.githubusercontent.com/PankajPidurkar/SQL_Projects/main/Adidas_Sales_SQL)
--  Covid - 19 Analysis ➡ [Click here](link_to_personal_portfolio)
 -  Fifa 2k23 Data Analysis ➡ [Click here](link_to_personal_portfolio)
   
 
@@ -66,26 +60,9 @@
 - Joins and combining data from multiple tables
 - Data Validation, Conditional Formatting 
 
-
-<!-- ## 🌱 I'm Currently Working On
-
-- Project of MedTourEAsy Traineeship -->
-
-## 🌟 Featured Projects
-
--  Data Analysis ➡ [Click here](link_to_personal_portfolio)
-
-
-## 🗂 Repositories
-
-- Personal_Portfolio ➡ [Click here](https://github.com/PankajPidurkar/Pankaj_Portfolio)
-- Powerbi_Projects ➡ [Click here](https://github.com/PankajPidurkar/Powerbi_Projects.git)
-- SQL_Projects ➡ [Click here](https://github.com/PankajPidurkar/SQL_Projects.git)
-- Tableau/Excel_Project ➡ [Click here](https://github.com/PankajPidurkar/Tableau_Excel_Project.git)
-
 ## 🙏 Support
 
-📧 Email: [pankajpidurkar86@gmail.com](mailto:pankajpidurkar86@gmail.com)
+📧 Email: [rahulkulkarni940@gmail.com](mailto:rahulkulkarni940@gmail.com)
 
 
 <div align="center">
