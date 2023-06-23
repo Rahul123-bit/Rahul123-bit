@@ -46,11 +46,11 @@
 ## 🔭 Projects
 
 - Opportunity Analysis ➡ [Click here](link_to_personal_portfolio)
-  
+- Sales analytics Dashboard ➡ Tableau
 
 ## 🔭 SQL Projects
 -  Fifa 2k23 Data Analysis ➡ [Click here](link_to_personal_portfolio)
-  
+
 
 ## 💬 Ask Me About
 
